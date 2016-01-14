@@ -1,6 +1,6 @@
 # StorageModel
 
-仿 `mongodb` 接口的一套操作 `localStorage` 操作的API;
+仿 `mongodb` 接口的一套操作 `localStorage` 的API;
 
 ## 源码
 
