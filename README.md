@@ -69,3 +69,5 @@ UserModel.remove();
 UserModel.remove({age:18, name: 'tenfour'});
 
 ```
+
+**PS 复合条件查询和数据类型判断待完善！**
